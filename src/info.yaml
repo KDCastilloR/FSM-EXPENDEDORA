@@ -1,0 +1,8 @@
+project:
+  name: "Máquina Expendedora"
+  author: "Katherine Dayanna Castillo"
+  language: "verilog"
+  description: "FSM combinada Moore + Mealy para máquina expendedora que acepta monedas, compra productos y da cambio."
+  top_module: "tt_um_expendedora_2025"
+  clock_hz: 10000000
+  tags: ["fsm", "vending machine", "verilog", "tiny tapeout"]
